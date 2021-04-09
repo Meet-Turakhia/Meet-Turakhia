@@ -7,7 +7,7 @@
 
 - I am also a **Django Web Developer** as well as **PHP Web Developer**, I have designed and developed beautiful websites using both.
 
-- I understand the fast pace nature of tech field and I have made myself compatible with it, I am a fast learner and have went beyond my academic curriculum to learn
+- I understand the fast pace nature of tech field and I have made myself compatible with it, I am a **fast learner** and have went beyond my academic curriculum to learn
   many skills.
 
 ### ✅ I'm currently learning
