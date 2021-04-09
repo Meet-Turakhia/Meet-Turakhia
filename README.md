@@ -10,7 +10,7 @@
 - I understand the fast pace nature of tech field and I have made myself compatible with it, I am a **fast learner** and have went beyond my academic curriculum to learn
   many skills.
 
-### ✅ I'm currently learning
+### ⏳ I'm currently learning
 - Machine Learning & Data Science
 - Google Cloud Platform
 
@@ -18,7 +18,7 @@
 - Complecities (a map based architecture portfolio)
 - MakeEat (an ingredient detection recipe recommendation system using ML)
 
-### 💭 Ask me about(My Skills)
+### 🎯 Ask me about(My Skills)
 - Web Development
 - Web Automation
 - Data Analytics
