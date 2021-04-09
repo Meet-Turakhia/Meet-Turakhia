@@ -13,6 +13,7 @@
 ### ⏳ I'm currently learning
 - Machine Learning & Data Science
 - Google Cloud Platform
+- Open Source
 
 ### 💻 I'm Currently Working On
 - Complecities (a map based architecture portfolio)
